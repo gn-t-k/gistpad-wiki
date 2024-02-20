@@ -1,2 +1,2 @@
-# How to Use Gistpad Wiki
+# How to Use GistPad Wiki
 
